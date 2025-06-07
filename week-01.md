@@ -1,7 +1,7 @@
 ## 📝 Daily Reports
 # <Budati Akhil> 
 
-🗓 Monday – May 19
+## 🗓 Monday – May 19
 
  
 ✅ Completed: introduction to office and staff
@@ -10,7 +10,7 @@
 
 
 
-🗓 Tuesday – May 20
+## 🗓 Tuesday – May 20
 
 
 ✅ Completed: Basic Libraries of python
@@ -19,7 +19,7 @@
 
 
 
-🗓 Wednesday – May 21
+## 🗓 Wednesday – May 21
 
 
 ✅ Completed: Learn basics of Tensors.
@@ -28,7 +28,7 @@
 
 🔜 Next Days Plan:To learn Pytorch basics
 
-🗓 Thursday – May 22
+## 🗓 Thursday – May 22
 
 
 ✅ Completed:Learnt Linear Regression
@@ -41,7 +41,7 @@
 
 
 
-🗓 Friday – May 23
+## 🗓 Friday – May 23
 
 
 ✅ Completed:Learn Multi Variable Regression
