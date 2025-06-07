@@ -22,7 +22,7 @@
 ## 🗓 Wednesday – May 21
 
 
-✅ Completed: Learn basics of Tensors.
+✅ Completed: Learnt basics of Tensors.
 
 ✅ Tasks Completed:Learnt Basics of Tensors
 
@@ -32,8 +32,6 @@
 
 
 ✅ Completed:Learnt Linear Regression
-
-🎓 Learning Outcomes:
 
 ✅ Tasks Completed:Learnt Linear Regression
 
