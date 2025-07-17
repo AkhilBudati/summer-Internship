@@ -37,4 +37,4 @@
 ## 🗓 Friday – July 18
 
 
-✅ Completed:successfully made a program that can translate amercian sign language into real time words
+✅ Completed:successfully made a program that can detect drivers without helmets and capture their number-plates
