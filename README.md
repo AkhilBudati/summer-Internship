@@ -1,2 +1,2 @@
 # summer-Internship
-daily report of summer internship
+Daily report of summer internship
